@@ -1,1 +1,1 @@
-# ML_Mini-Project
+# stock-price-prediction
